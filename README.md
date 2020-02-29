@@ -1,2 +1,2 @@
 # githubdemorepo
-This is s a demo
+This is a demo
